@@ -1,0 +1,57 @@
+[
+    {
+        "USER": "SRS",
+        "ACTION": "Login",
+        "TIME": "5\/03\/2020:08:53:40"
+    },
+    {
+        "USER": "ADMIN",
+        "ACTION": "Login",
+        "TIME": "5\/03\/2020:09:44:54"
+    },
+    {
+        "USER": "FAJAR",
+        "ACTION": "Login",
+        "TIME": "5\/03\/2020:10:01:04"
+    },
+    {
+        "USER": "SRS",
+        "ACTION": "Logout",
+        "TIME": "5\/03\/2020:10:11:49"
+    },
+    {
+        "USER": "ADMIN",
+        "ACTION": "Logout",
+        "TIME": "5\/03\/2020:12:13:14"
+    },
+    {
+        "USER": "AMAN",
+        "ACTION": "Login",
+        "TIME": "2012"
+    },
+    {
+        "USER": "AMAN",
+        "ACTION": "Login",
+        "TIME": "2012"
+    },
+    {
+        "USER": "AMAN",
+        "ACTION": "Login",
+        "TIME": "2012"
+    },
+    {
+        "USER": "AMAN",
+        "ACTION": "Login",
+        "TIME": "2012gdjkfgkldjfg"
+    },
+    {
+        "USER": "AMAN",
+        "ACTION": "Login",
+        "TIME": "2012gdjkfgkldjfg"
+    },
+    {
+        "USER": "HADIR",
+        "ACTION": "Login",
+        "TIME": "15:04:40"
+    }
+]
